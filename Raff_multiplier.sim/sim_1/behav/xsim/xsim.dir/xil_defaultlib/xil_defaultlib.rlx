@@ -1,0 +1,14 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/raffy/Documents/Vivado_projects/Varie/Raff_multiplier/Raff_multiplier.srcs/sim_1/new/TB_generic.vhd,1720260797,vhdl,,,,tb_generic,,,,,,,,
+C:/Users/raffy/Documents/Vivado_projects/Varie/Raff_multiplier/Raff_multiplier.srcs/sources_1/imports/new/ADDER8.vhd,1719874290,vhdl,,,,adder8,,,,,,,,
+C:/Users/raffy/Documents/Vivado_projects/Varie/Raff_multiplier/Raff_multiplier.srcs/sources_1/imports/new/FullAdder.vhd,1715504008,vhdl,,,,fa,,,,,,,,
+C:/Users/raffy/Documents/Vivado_projects/Varie/Raff_multiplier/Raff_multiplier.srcs/sources_1/imports/new/RCA4_BIT.vhd,1716745382,vhdl,,,,rca_4bit,,,,,,,,
+C:/Users/raffy/Documents/Vivado_projects/Varie/Raff_multiplier/Raff_multiplier.srcs/sources_1/new/A1.vhd,1706879752,vhdl,,,,a1,,,,,,,,
+C:/Users/raffy/Documents/Vivado_projects/Varie/Raff_multiplier/Raff_multiplier.srcs/sources_1/new/A2.vhd,1706879744,vhdl,,,,a2,,,,,,,,
+C:/Users/raffy/Documents/Vivado_projects/Varie/Raff_multiplier/Raff_multiplier.srcs/sources_1/new/A3.vhd,1706879792,vhdl,,,,a3,,,,,,,,
+C:/Users/raffy/Documents/Vivado_projects/Varie/Raff_multiplier/Raff_multiplier.srcs/sources_1/new/A7.vhd,1706879740,vhdl,,,,a7,,,,,,,,
+C:/Users/raffy/Documents/Vivado_projects/Varie/Raff_multiplier/Raff_multiplier.srcs/sources_1/new/MULTIPLIER.vhd,1720264449,vhdl,,,,multiplier,,,,,,,,
+C:/Users/raffy/Documents/Vivado_projects/Varie/Raff_multiplier/Raff_multiplier.srcs/sources_1/new/Pipeline.vhd,1720260838,vhdl,,,,pipeline,,,,,,,,

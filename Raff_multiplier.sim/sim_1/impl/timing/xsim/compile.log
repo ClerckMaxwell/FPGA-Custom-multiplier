@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/raffy/Documents/Vivado_projects/Varie/Raff_multiplier/Raff_multiplier.sim/sim_1/impl/timing/xsim/TB_generic_time_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Pipeline
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/raffy/Documents/Vivado_projects/Varie/Raff_multiplier/Raff_multiplier.srcs/sim_1/new/TB_generic.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TB_generic'

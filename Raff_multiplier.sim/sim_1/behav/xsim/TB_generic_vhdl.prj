@@ -1,0 +1,15 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Raff_multiplier.srcs/sources_1/new/A1.vhd" \
+"../../../../Raff_multiplier.srcs/sources_1/new/A2.vhd" \
+"../../../../Raff_multiplier.srcs/sources_1/new/A3.vhd" \
+"../../../../Raff_multiplier.srcs/sources_1/new/A7.vhd" \
+"../../../../Raff_multiplier.srcs/sources_1/imports/new/ADDER8.vhd" \
+"../../../../Raff_multiplier.srcs/sources_1/imports/new/FullAdder.vhd" \
+"../../../../Raff_multiplier.srcs/sources_1/new/MULTIPLIER.vhd" \
+"../../../../Raff_multiplier.srcs/sources_1/new/Pipeline.vhd" \
+"../../../../Raff_multiplier.srcs/sources_1/imports/new/RCA4_BIT.vhd" \
+"../../../../Raff_multiplier.srcs/sim_1/new/TB_generic.vhd" \
+
+# Do not sort compile order
+nosort
